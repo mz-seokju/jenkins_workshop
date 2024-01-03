@@ -1,3 +1,3 @@
-import request
+import requests
 
-request.post("http://127.0.0.1/shutdown")
+requests.post("http://127.0.0.1/shutdown")
