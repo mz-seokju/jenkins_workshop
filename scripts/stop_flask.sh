@@ -1,6 +1,6 @@
 #!/usr/bin/python
-import requests
+import request
 
-requests.post("http://127.0.0.1/shutdown")
+request.post("http://127.0.0.1/shutdown")
 
 
