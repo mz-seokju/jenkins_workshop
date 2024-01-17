@@ -1,4 +1,4 @@
 mkdir -p /web
 curl -O https://bootstrap.pypa.io/get-pip.py
 python3.7 get-pip.py --user
-python3.7 -m pip3 install -r requirements.txt
+python3.7 -m pip install -r requirements.txt
