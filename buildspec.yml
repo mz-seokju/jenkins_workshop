@@ -14,6 +14,7 @@ phases:
     - echo Build completed on `date`
 artifacts:
   files:
+  - requirements.txt
   - web.py
   - appspec.yml
   - templates/layout.html
