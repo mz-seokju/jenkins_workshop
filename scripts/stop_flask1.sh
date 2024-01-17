@@ -1,1 +1,1 @@
-pgrep -f python |xargs kill
+pgrep -f python3 |xargs kill
